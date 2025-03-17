@@ -45,6 +45,4 @@ As time progresses, the distribution of $X_t$ approaches $p(X)$, meaning that sa
 - **`plot_iters`** (set to 3 subplots):
   - Determines the number of subplots used for visualizing the sampling progress. The code plots the state of the Langevin sampling process at different iterations.
 
-You can run the simulation with the following command:
-
-``python langevin.py``
+You can run the simulation with the following command: ``python langevin.py``.
